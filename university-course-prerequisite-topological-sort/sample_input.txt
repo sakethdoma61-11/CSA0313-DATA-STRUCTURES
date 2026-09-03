@@ -1,9 +1,13 @@
-8
-7
-0 1
-1 2
-1 3
-2 4
-3 5
-4 6
-6 7
+University Course Prerequisite Graph
+Vertices: 8
+Edges: 9
+
+PF -> DS
+PF -> DBMS
+DS -> ALG
+DS -> OS
+DBMS -> AI
+ALG -> AI
+CN -> OS
+OS -> ML
+AI -> ML
